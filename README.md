@@ -2,7 +2,7 @@
 - 👀 I’m interested in software & web application development
 - 🌱 I’m currently learning Full stack development using MERN
 - 💞️ I’m looking to collaborate on the projects on data structures, full stack developments
-- 📫 You may reach me on whatsapp @+917080313566, instagram @adarshb_4742
+- 📫 You may reach me on Whatsapp @+917080313566, Instagram @adarshb_4742
 
 <!---
 adarsh-bhatnagar/adarsh-bhatnagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
