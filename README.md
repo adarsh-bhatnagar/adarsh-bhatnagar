@@ -63,7 +63,7 @@ I’m open to:
 
 ## 📫 Get in Touch
 
-- 💼 LinkedIn: *(add link)*  
-- 📧 Email: *(add professional email)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/adarsh-bhatnagar-b5aa0920a/*  
+- 📧 Email: *adarshb.best@gmail.com*
 
 Thanks for visiting — feel free to explore the repositories.
